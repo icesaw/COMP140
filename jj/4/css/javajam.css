@@ -1,0 +1,25 @@
+body {
+	background-color: #F5F5DC;
+	color: #2e0000;
+    font-family: Arial, Verdana, sans-serif; }
+
+h1 { background-color: #d2b48c;
+	color: #000000; 
+	line-height: 200%; }
+	
+footer { background-color: #d2b48c;
+	   color: #000000;
+	   font-size: small;
+	   font-style: italic; 
+	   padding: 10px; }
+h2 { background-color: #d2b48c;
+	font-size: 1.2em;
+	padding-left: 10px;
+	padding-bottom: 5px; }
+
+main { padding: 25px; }
+
+.details { padding-left: 20%;
+		   padding-right: 20%; }
+
+img { border: 0; }
