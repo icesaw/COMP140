@@ -844,6 +844,10 @@ img {
 	text-align: center;
 	text-transform: none
 }
+#footer div p a, #footer div p a:visited {
+	color: #FFFFFF;
+	text-transform: none
+}
 #footer div .connect {
 	display: block;
 	height: 30px;
