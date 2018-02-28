@@ -111,33 +111,27 @@ img {
 	margin: 0;
 	overflow: hidden;
 	padding: 0;
-	position: relative;
 	width: 100%;
 }
 #body.home div.header {
 	background-color: white;
-	margin: 0;
-	max-width: none;
+	margin: auto;
 	overflow: hidden;
 	padding: 0;
 	width: 100%;
+    max-width: 1000px;
+    position: relative;
 }
 #body.home div.header img {
 	display: block;
-	left: 50%;
-	margin: 0 auto 0 -563px;
+	margin: auto;
 	padding: 0;
 	position: absolute;
-	width: 80%;
-    max-width: 1000px;
+	max-width: 1000px;
 }
 #body.home div.header div {
-	margin: 0 auto;
-	max-width: 960px;
-	min-height: 660px;
-	padding: 0;
-	position: relative;
-}
+	min-height: 650px;
+	}
 #body.home div.body {
 	background-color: #eae7e8;
 	margin: 0;
